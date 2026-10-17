@@ -13,8 +13,7 @@
 [![Peabody](https://img.shields.io/badge/Peabody%20Award-Winner-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender#Accolades)
 [![Emmy](https://img.shields.io/badge/Primetime%20Emmy-Winner-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender#Accolades)
 
-![Avatar Aang and Team Avatar Banner](https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200&h=400&fit=crop&crop=center)
-
+![Avatar Aang and Team Avatar Banner](./images/ATLA.png)
 *“Only the Avatar, master of all four elements, could stop them. But when the world needed him most, he vanished.”*
 
 </div>
@@ -102,11 +101,13 @@ Below are some of the most memorable moments from the original series, with plac
 
 <div align="center">
 
-![Aang in the Avatar State](https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=800&h=450&fit=crop&crop=center)
+![Aang in the Avatar State](./images/aang-state.png)
 
 *Aang in the Avatar State — eyes and tattoos glowing with cosmic energy.*
 
 </div>
+
+---
 
 ### Zuko and Azula’s Final Agni Kai
 
@@ -114,11 +115,13 @@ Below are some of the most memorable moments from the original series, with plac
 
 <div align="center">
 
-![Zuko vs Azula — Final Agni Kai](https://images.unsplash.com/photo-1580136579312-94651dfd596d?w=800&h=450&fit=crop&crop=center)
+![Zuko vs Azula — Final Agni Kai](./images/agni-kai.png)
 
 *The final Agni Kai — fire and lightning against a falling sky.*
 
 </div>
+
+---
 
 ### Aang Gliding on His Glider
 
@@ -126,11 +129,13 @@ Below are some of the most memorable moments from the original series, with plac
 
 <div align="center">
 
-![Aang gliding](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=450&fit=crop&crop=center)
+![Aang gliding](./images/aang-glider.png)
 
 *Aang and his glider — the last airbender in flight.*
 
 </div>
+
+---
 
 ### Iroh’s Memorial for Lu Ten
 
@@ -138,11 +143,13 @@ Below are some of the most memorable moments from the original series, with plac
 
 <div align="center">
 
-![Iroh memorial](https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=450&fit=crop&crop=center)
+![Iroh memorial](./images/iroh-lu-ten.png)
 
 *“Leaves from the vine, falling so slow...”*
 
 </div>
+
+---
 
 ### Energybending — The Final Confrontation
 
@@ -150,7 +157,7 @@ Below are some of the most memorable moments from the original series, with plac
 
 <div align="center">
 
-![Energybending](https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=800&h=450&fit=crop&crop=center)
+![Energybending](./images/energybending.png)
 
 *Energybending — the Avatar’s ultimate act of balance.*
 
