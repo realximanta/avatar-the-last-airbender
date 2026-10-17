@@ -1,4 +1,4 @@
-# 🌊 Avatar: The Last Airbender 
+# 🌊 Avatar: The Last Airbender 🪨
 
 <div align="center">
 
@@ -10,6 +10,7 @@
 [![Episodes](https://img.shields.io/badge/Episodes-61-B22222?style=for-the-badge)](https://en.wikipedia.org/wiki/List_of_Avatar:_The_Last_Airbender_episodes)
 [![Comics](https://img.shields.io/badge/Canon%20Comics-20%2B-800080?style=for-the-badge)](https://screenrant.com/avatar-the-last-airbender-comics-in-order/)
 [![Novels](https://img.shields.io/badge/Chronicles-Novels-FFD700?style=for-the-badge)](https://www.goodreads.com/series/263325-the-kyoshi-novels)
+[![Seven Havens](https://img.shields.io/badge/New%20Series-Seven%20Havens-9B59B6?style=for-the-badge&logo=paramountplus&logoColor=white)](https://www.paramountplus.com/shows/avatar-seven-havens/)
 [![Peabody](https://img.shields.io/badge/Peabody%20Award-Winner-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender#Accolades)
 [![Emmy](https://img.shields.io/badge/Primetime%20Emmy-Winner-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender#Accolades)
 
@@ -55,7 +56,7 @@ Across three seasons — **Book One: Water**, **Book Two: Earth**, and **Book Th
 
 ## 📺 Watch Order
 
-The essential viewing order is straightforward: the two animated series form the chronological and release-order backbone of the franchise.
+The essential viewing order is straightforward: the animated series and films form the chronological and release-order backbone of the franchise.
 
 ### 1. Avatar: The Last Airbender (2005–2008) — *Essential*
 
@@ -76,6 +77,19 @@ Set **70 years later** in a modern, industrial world, following the brash new Av
 | **Book 3** | **Change** | 13 |
 | **Book 4** | **Balance** | 13 |
 
+### 3. Avatar: Seven Havens (2026–) — *Latest Series*
+
+Set **225 years after *The Legend of Korra***, this new series introduces a post-apocalyptic era where the Avatar is feared rather than revered.
+
+| Book | Title | Episodes | Status |
+|------|-------|----------|--------|
+| **Book 1** | **Seven Havens** | 13 | Premiered Oct 9, 2026 |
+| **Book 2** | **TBA** | 13 | Renewed |
+| **Book 3** | **TBA** | TBA | Renewed (future adaptation) |
+| **Book 4** | **TBA** | TBA | Renewed (future adaptation) |
+
+> **New Avatar, New Era:** The series follows **Pavi**, a young Earthbender who discovers she is the Avatar, only to learn that the world blames the Avatar for a catastrophic event. She must team up with her long-lost twin sister, **Nisha**, to uncover their origins and save the last remnants of civilization, the **Seven Havens**.
+
 ### Recommended Full Franchise Order (Optional Expansions)
 
 The community consensus for the “full, optimal experience” is:
@@ -85,7 +99,8 @@ The community consensus for the “full, optimal experience” is:
 3. **The Legend of Korra** — Books 1–4
 4. *(Optional)* **Korra Comics** — *Turf Wars* onward
 5. *(Optional)* **Novels** — *The Rise of Kyoshi*, *The Shadow of Kyoshi*, *The Dawn of Yangchen*, *The Legacy of Yangchen*
-6. **The Legend of Aang: The Last Airbender** (2026 film) and the new Avatar Studios era
+6. **The Legend of Aang: The Last Airbender** (2026 film)
+7. **Avatar: Seven Havens** — Books 1–4 (Ongoing)
 
 > **Chronological note:** The prequel novels (Kyoshi and Yangchen) are set thousands of years before the shows. Watch both series first for the richest experience.
 
@@ -223,6 +238,12 @@ The **Chronicles of the Avatar** series, published by Amulet Books, explores the
 ### The 2026 Animated Film
 - **The Legend of Aang: The Last Airbender** — An upcoming animated film from Avatar Studios, set in the ATLA timeline and positioned after the original series and its comics.
 
+### Avatar: Seven Havens (2026–Present)
+- The latest animated series, set 225 years after *The Legend of Korra*. It introduces twin Avatars, Pavi and Nisha, in a post-apocalyptic world.
+- Produced by Avatar Studios and Nickelodeon Animation Studio, with original creators Michael Dante DiMartino and Bryan Konietzko executive producing.
+- Premiered on Paramount+ on October 9, 2026, with a 13-episode Book 1.
+- Already renewed for Books 3 and 4.
+
 ### Live-Action
 - **Netflix’s *Avatar: The Last Airbender*** (2024–) — A live-action reimagining. Best treated as a **companion** to the animated series rather than a replacement.
 
@@ -233,7 +254,7 @@ The **Chronicles of the Avatar** series, published by Amulet Books, explores the
 
 ## 🖼️ Image Credits & Attribution
 
-All images used in this README are **placeholders** hosted on Unsplash and are intended to be replaced with actual screenshots or fan art in your repository. When adding real images:
+All images used in this README are **placeholders** and are intended to be replaced with actual screenshots or fan art in your repository. When adding real images:
 
 - Use images from **official press kits**, **fair-use screenshots**, or **Creative Commons fan art**.
 - Credit the original artists and link back to their sources.
@@ -252,3 +273,5 @@ Found a missing comic, a better reading order, or a broken image link? Contribut
 ### *“Sometimes life is like this dark tunnel. You can’t always see the light at the end of the tunnel, but if you just keep moving... you will come to a better place.”* — Uncle Iroh
 
 **⭐ Star this repo if you’re a fan of the Four Nations ⭐**
+
+</div>
